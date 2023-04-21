@@ -1,33 +1,48 @@
-# Project
+# PSRule samples
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains a sample code and examples for PSRule.
+To learn more about PSRule, see <https://aka.ms/ps-rule>.
 
-As the maintainer of this project, please make a few updates:
+[![Open in vscode.dev](https://img.shields.io/badge/Open%20in-vscode.dev-blue)][1]
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+  [1]: https://vscode.dev/github/microsoft/PSRule-samples
+
+## Support
+
+This project uses GitHub Issues to track bugs and feature requests.
+Please search the existing issues before filing new issues to avoid duplicates.
+
+- For new issues, file your bug or feature request as a new [issue][2].
+- For help, discussion, and support questions about using this project, join or start a [discussion][3].
+
+Support for this project/ product is limited to the resources listed above.
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+This project welcomes contributions and suggestions.
+If you are ready to contribute, please visit the [contribution guide](CONTRIBUTING.md).
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+## Maintainers
+
+- [Bernie White](https://github.com/BernieWhite)
+- [Sam Bell](https://github.com/ms-sambell)
+
+## License
+
+This project is [licensed under the MIT License](LICENSE).
 
 ## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+This project may contain trademarks or logos for projects, products, or services.
+Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+  [2]: https://github.com/microsoft/PSRule-samples/issues
+  [3]: https://github.com/microsoft/PSRule-samples/discussions
