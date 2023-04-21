@@ -40,10 +40,10 @@ jobs:
           outputFormat: Sarif
           outputPath: reports/ps-rule-results.sarif
 
-      # - name: Upload results to security tab
-      #   uses: github/codeql-action/upload-sarif@v2
-      #   with:
-      #     sarif_file: reports/ps-rule-results.sarif
+      - name: Upload results to security tab
+        uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: reports/ps-rule-results.sarif
 
   # devskim:
   #   name: Analyze with DevSkim
