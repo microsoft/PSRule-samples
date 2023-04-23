@@ -10,10 +10,10 @@ requires:
 
 output:
   culture:
-  - en-US
+    - en-US
 
 input:
   pathIgnore:
-  - '*.md'
-  - '.vscode/'
-  - 'docs/'
+    - '*.md'
+    - '.vscode/'
+    - 'docs/'
