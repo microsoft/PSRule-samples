@@ -1,0 +1,18 @@
+{
+  "yaml.format.singleQuote": true,
+  "files.insertFinalNewline": true,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "[powershell]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 4
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "git.branchProtection": [
+    "main"
+  ]
+}
