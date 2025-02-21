@@ -3,41 +3,22 @@
 This repository contains community samples for PSRule.
 To learn more about PSRule, visit <https://aka.ms/ps-rule>.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Thanks for your interest in PSRule samples.
 > To the new locations for PSRule samples are:
 >
 > - PSRule core functionality: <https://github.com/microsoft/PSRule/tree/main/samples>
-> - Azure specific samples: <https://github.com/Azure/PSRule.Rules.Azure/tree/main/samples/rules>
+> - Azure specific samples: <https://github.com/Azure/PSRule.Rules.Azure/tree/main/samples>
 >
 > This repository is no longer maintained.
 > The contents of this repository has been migrated to the locations mentioned above.
+> Any new issues can be raised in the respective repositories.
 ---
 
 ## Browsing samples
 
 You can find samples in `samples` directory broken down by topic.
 For example `samples/azure`.
-
-## Contributing
-
-This project welcomes contributions and suggestions.
-If you would like to a contribute a sample to this repository please [log an issue][2] to discuss the sample.
-
-  [2]: https://github.com/microsoft/PSRule-samples/issues/new/choose
-
-## Support
-
-This project uses GitHub Issues to track bugs and feature requests.
-Please search the existing issues before filing new issues to avoid duplicates.
-
-- For new issues, file your bug or feature request as a new [issue][3].
-- For help, discussion, and support questions about using this project, join or start a [discussion][4].
-
-Support for this project/ product is limited to the resources listed above.
-
-  [3]: https://github.com/microsoft/PSRule-samples/issues
-  [4]: https://github.com/microsoft/PSRule-samples/discussions
 
 ## Code of Conduct
 
