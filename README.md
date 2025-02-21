@@ -3,9 +3,16 @@
 This repository contains community samples for PSRule.
 To learn more about PSRule, visit <https://aka.ms/ps-rule>.
 
-[![Open in vscode.dev](https://img.shields.io/badge/Open%20in-vscode.dev-blue)][1]
-
-  [1]: https://vscode.dev/github/microsoft/PSRule-samples
+> [!NOTE]
+> Thanks for your interest in PSRule samples.
+> To the new locations for PSRule samples are:
+>
+> - PSRule core functionality: <https://github.com/microsoft/PSRule/tree/main/samples>
+> - Azure specific samples: <https://github.com/Azure/PSRule.Rules.Azure/tree/main/samples/rules>
+>
+> This repository is no longer maintained.
+> The contents of this repository has been migrated to the locations mentioned above.
+---
 
 ## Browsing samples
 
@@ -41,7 +48,6 @@ or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any addi
 ## Maintainers
 
 - [Bernie White](https://github.com/BernieWhite)
-- [Sam Bell](https://github.com/ms-sambell)
 
 ## License
 
